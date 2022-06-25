@@ -1,0 +1,85 @@
+.text-red{color:#ee2626;}
+.text-blue{color:#2e4dd4;}
+.text-green{color:#23a323;}
+.text-purple{color:#ab23ce;}
+.text-black{color:black;}
+.text-white{color:white;}
+.text-brown{color:#a52a2a;}
+.text-yellow{color:#ffe600;}
+.text-pink{color:#fa9fae;}
+.text-orange{color:#ff7b00;}
+
+.text-red-hover:hover{color:#ee2626;}
+.text-blue-hover:hover{color:#2e4dd4;}
+.text-green-hover:hover{color:#23a323;}
+.text-purple-hover:hover{color:#ab23ce;}
+.text-black-hover:hover{color:black;}
+.text-white-hover:hover{color:white;}
+.text-brown-hover:hover{color:#a52a2a;}
+.text-yellow-hover:hover{color:#ffe600;}
+.text-pink-hover:hover{color:#fa9fae;}
+.text-orange-hover:hover{color:#ff7b00;}
+
+.bg-red{background-color:#ee2626;}
+.bg-blue{background-color:#2e4dd4;}
+.bg-green{background-color:#23a323;}
+.bg-purple{background-color:#ab23ce;}
+.bg-black{background-color:black;}
+.bg-white{background-color:white;}
+.bg-brown{background-color:#a52a2a;}
+.bg-yellow{background-color:#ffe600;}
+.bg-pink{background-color:#fa9fae;}
+.bg-orange{background-color:#ff7b00;}
+
+.text-decoration-none:hover { text-decoration: none; }
+
+.border-solid{ border-style: solid; }
+.border-dashed{ border-style: dashed; }
+.border-dotted{ border-style: dotted; }
+.border-double{ border-style: double; }
+.border-hidden{ border-style: hidden; }
+.border-groove{ border-style: groove; }
+.border-none{ border-style: none; }
+
+.border-1 { border: 1px; }
+.border-2 { border: 2px; }
+.border-3 { border: 3px; }
+.border-4 { border: 4px; }
+.border-5 { border: 5px; }
+.border-6 { border: 6px; }
+.border-7 { border: 7px; }
+.border-8 { border: 8px; }
+.border-9 { border: 9px; }
+.border-10 { border: 10px; }
+
+.border-radius-1 { border-radius: 1px;}
+.border-radius-2 { border-radius: 2px;}
+.border-radius-3 { border-radius: 3px;}
+.border-radius-4 { border-radius: 4px;}
+.border-radius-5 { border-radius: 5px;}
+.border-radius-6 { border-radius: 6px;}
+.border-radius-7 { border-radius: 7px;}
+.border-radius-8 { border-radius: 8px;}
+.border-radius-9 { border-radius: 9px;}
+.border-radius-10 { border-radius: 10px;}
+.border-radius-12 { border-radius: 12px;}
+.border-radius-13 { border-radius: 13px;}
+.border-radius-14 { border-radius: 14px;}
+.border-radius-15 { border-radius: 15px;}
+.border-radius-16 { border-radius: 16px;}
+.border-radius-17 { border-radius: 17px;}
+.border-radius-18 { border-radius: 18px;}
+.border-radius-19 { border-radius: 19px;}
+.border-radius-20 { border-radius: 20px;}
+
+/*
+Coming soon
+
+.text-netflix{color:#;}
+.text-netflix-hover:hover{color:#;}
+.bg-netflix{background-color:#;}
+
+Brand Color
+Tailwind Color
+Bootstrap Color
+*/
