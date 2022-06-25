@@ -7,3 +7,5 @@ Coming soon
 Brand Color
 Tailwind Color
 Bootstrap Color
+
+Shadow X Y Blur Opacity
