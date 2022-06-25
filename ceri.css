@@ -376,3 +376,6 @@
 .mb-80{margin-bottom:80px;}
 .mb-90{margin-bottom:90px;}
 .mb-100{margin-bottom:100px;}
+/*Shadow*/
+.shadow{box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);}
+.shadow-hover:hover{box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);}
