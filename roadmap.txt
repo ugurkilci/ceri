@@ -1,0 +1,9 @@
+Coming soon
+
+.text-netflix{color:#;}
+.text-netflix-hover:hover{color:#;}
+.bg-netflix{background-color:#;}
+
+Brand Color
+Tailwind Color
+Bootstrap Color
